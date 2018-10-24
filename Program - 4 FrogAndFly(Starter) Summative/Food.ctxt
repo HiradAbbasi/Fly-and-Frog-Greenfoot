@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ The\ Food\ class\ is\ responsible\ for\ randomizing\ 5\ Food\ objects.\r\n\ That\ includes\ the\ apple,\ bananas,\ cherries,\ grapes,\ and\ strawberries.\r\n\ The\ food\ class\ has\ a\ randomizer\ that\ picks\ 1/5\ Food\ each\ time\ the\ program\r\n\ is\ opened\ and\ reset.\r\n\ \r\n\ @author\ Hirad\ Abbasi\ \r\n\ @version\ October\ 23rd\r\n
+comment1.params=
+comment1.target=Food()
+numComments=2

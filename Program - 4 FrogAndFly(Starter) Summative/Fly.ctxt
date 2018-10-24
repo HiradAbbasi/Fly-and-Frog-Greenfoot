@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fly
+comment0.text=\r\n\r\n\ The\ fly\ counts\ how\ many\ Food\ object\ it\ eats\ and\ every\ time\ the\r\n\ fly\ eats\ all\ 10\ Food\ objects,\ 10\ more\ Food\ objects\ are\ added\ to\ the\ \r\n\ the\ world.\ This\ Fly\ class\ controls\ and\ randomizes\ the\ Fly's\ rotation\r\n\ and\ also\ gives\ you\ the\ chance\ to\ control\ the\ Fly.\r\n\ \r\n\ @author\ Hirad\ Abbasi\r\n\ @version\ October\ 23rd\r\n
+comment1.params=
+comment1.target=Fly()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Does\ whatever\ the\ Fly\ is\ controlled\ to\ do.\ Things\ such\ as\r\n\ making\ the\ fly\ move\ and\ also\ removing\ the\ Food\ evey\ time\ they\ come\r\n\ in\ contact.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ \r\n\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ moveKeys()
+comment3.text=\r\n\ MoveKeys\ is\ used\ to\ Contorl\ the\ Fly\ in\ the\ Up,Right,\ and\ Left\ directions.\r\n\ When\ the\ right\ key\ is\ pressed\ the\ fly\ turns\ 5\ degrees\ and\ when\ the\ Left\ \r\n\ key\ is\ pressed\ the\ fly\ turns\ -5\ degrees.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment4.params=
+comment4.target=void\ removeTouching()
+comment4.text=\r\n\ removeTouching\ is\ in\ controlling\ of\ removing\ Food\ objects\ on\ the\ World\r\n\ every\ time\ the\ Fly\ comes\ in\ contact\ with\ the\ Food.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+numComments=5

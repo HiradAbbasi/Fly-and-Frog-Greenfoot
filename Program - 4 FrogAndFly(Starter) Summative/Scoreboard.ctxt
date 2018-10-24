@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ The\ scoreboard\ class\ is\ responsible\ for\ counting\ and\ adding\ the\r\n\ score\ that\ you\ get\ by\ collecting\ Food\ as\ the\ Fly.\ The\ maximum\ \r\n\ amount\ of\ points\ that\ you\ can\ gather\ is\ 100.\ That\ is\ also\ when\ \r\n\ you\ recive\ the\ text\ saying\ "You\ Win".\ The\ scoreboard\ is\ located\r\n\ on\ the\ top\ left\ of\ the\ screen.\r\n\ \r\n\ @author\ Hirad\ Abbasi\ \r\n\ @version\ October\ 23rd\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ AddToScore\ will\ make\ sure\ to\ show\ count\ and\ display\ the\ score\ on\ the\ top\ \r\n\ left\ of\ the\ screen.\ When\ you\ reach\ the\ score\ of\ 100\ the\ text\ "YOU\ WIN"\ \r\n\ will\ apear\ on\ the\ screen.\ The\ addToScore\ also\ needs\ to\ make\ sure\ to\ \r\n\ respawn\ the\ Food\ objects\ evey\ time\ the\ Fly\ reaches\ the\ score\ of\ 10\ or\ above.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+numComments=3

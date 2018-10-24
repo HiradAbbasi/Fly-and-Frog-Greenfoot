@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ This\ is\ the\ class\ Frog\ and\ it\ is\ reponsible\ for\ the\ frogs\ movement,\r\n\ speed,\ and\ the\ frogs\ randomized\ actions.\ The\ frog\ is\ responible\ for\ \r\n\ finding\ and\ removing\ the\ fly\ from\ the\ game.\ The\ frog\ has\ randomized\ \r\n\ movement\ that\ helps\ it\ find\ the\ fly.\r\n\ \r\n\ @author\ Hirad\ Abbasi\r\n\ @version\ october23rd\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Does\ whatever\ the\ Frog\ is\ told\ to\ do.\ Things\ such\ as\r\n\ making\ the\ Frog\ move\ and\ also\ removing\ the\ Fly\ evey\ time\ they\ come\r\n\ in\ contact.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ \r\n\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ randomizedMove()
+comment3.text=\r\n\ RandomizedMove\ will\ move\ the\ Frog\ in\ randomized\ locations.\ Fiftty\ percent\ \r\n\ of\ the\ time\ the\ Frog\ turns\ right\ and\ Fiffy\ percent\ of\ the\ time\ it\ turns\ \r\n\ left.\ The\ degrees\ that\ the\ frogs\ uses\ to\ turn\ is\ 15\ degrees.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment4.params=
+comment4.target=void\ atEdge()
+comment4.text=\r\n\ AtEdge\ will\ make\ th\ Frog\ turn\ 7\ degrees\ when\ the\ Frog\ reaches\ the\ edge\r\n\ of\ the\ World.\ \r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment5.params=
+comment5.target=void\ touchFly()
+comment5.text=\r\n\ TouchFly\ will\ make\ sure\ to\ pause\ the\ game\ and\ force\ a\ restart.\ The\ program\r\n\ will\ stop\ when\ the\ Frog\ and\ the\ Frog\ come\ in\ contact.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+numComments=6

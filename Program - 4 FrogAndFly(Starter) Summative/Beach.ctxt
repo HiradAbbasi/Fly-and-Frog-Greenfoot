@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ Name\:\ Hirad\ Abbasi\r\n\ Class\:\ Software\ Development\ 10S\r\n\ Teacher\:\ Mr.Hardman\r\n\ Last\ date\ modified\:\ October\ 23rd\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beach.Things\ such\ as\ the\r\n\ Fly,\ the\ frog,\ and\ the\ random\ pieces\ of\ Food\ on\ the\ ground.\r\n\ The\ constructor\ also\ stores\ the\ information\ for\ the\ \r\n\ scoreboard\ and\ also\ updates\ eveytime\ the\ Fly\ reaches\ the\ \r\n\ score\ of\ 10\ or\ above.\r\n\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ addFood\ will\ add\ Food\ objects\ in\ random\ locations\ in\ the\ world.\r\n\ The\ addFood\ method\ is\ also\ used\ to\ respawn\ Food\ after\ the\ Fly\ \r\n\ reaches\ the\ score\ of\ 10\ and\ above.\ \ \r\n\ \r\n\ @param\ There\ is\ int\ number\ inside\ the\ Parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ update\ will\ add\ the\ score\ of\ the\ Fly\ eating\ the\ Food\ in\ the\ World\ to\ the\r\n\ scoreboard.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment4.params=
+comment4.target=void\ resetFood()
+comment4.text=\r\n\ resetFood\ will\ reset\ the\ Food\ on\ the\ screen\ after\ the\ Fly\ reaches\ the\r\n\ score\ of\ 10\ or\ above.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment5.params=
+comment5.target=void\ Fly()
+comment5.text=\r\n\ Fly\ will\ be\ added\ to\ World\ in\ a\ random\ X\ and\ Y\ cordinate.\ There\ is\ one\r\n\ Fly\ that\ spawns\ in\ every\ time\ the\ World\ is\ reset.\r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+comment6.params=
+comment6.target=void\ Frog()
+comment6.text=\r\n\ Frog\ will\ be\ added\ to\ the\ center\ of\ the\ World\ .\ There\ is\ one\ Frog\r\n\ that\ spawns\ in\ every\ time\ the\ World\ is\ reset.\r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+numComments=7
